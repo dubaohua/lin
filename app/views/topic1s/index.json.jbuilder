@@ -1,0 +1,1 @@
+json.array! @topic1s, partial: 'topic1s/topic1', as: :topic1
